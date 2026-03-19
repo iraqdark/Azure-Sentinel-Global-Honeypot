@@ -25,7 +25,9 @@ density
 
 
 
-<img width="1831" height="784" alt="Screenshot 2026-03-19 172139" src="https://github.com/user-attachments/assets/b71ac9c3-37b2-41b3-b92c-c5831323486e" />
+<img width="1850" height="822" alt="Screenshot 2026-03-19 171517" src="https://github.com/user-attachments/assets/6883ef84-5d1c-415d-9766-005fe74f783a" />
+
+
 
 
 
@@ -41,14 +43,12 @@ Service Discovery (oracle, ftpuser): Finding oracle suggests they are hunting fo
 
 
 
-<img width="1850" height="822" alt="Screenshot 2026-03-19 171517" src="https://github.com/user-attachments/assets/6883ef84-5d1c-415d-9766-005fe74f783a" />
 
 
 
 
 
-
-
+<img width="1831" height="784" alt="Screenshot 2026-03-19 172139" src="https://github.com/user-attachments/assets/b71ac9c3-37b2-41b3-b92c-c5831323486e" />
 
 
 ##  Key Takeaways :
