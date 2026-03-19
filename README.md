@@ -14,11 +14,20 @@ Concepts: Threat Intelligence, Log Parsing (Regex), Geo-Enrichment, Data Normali
 
 📊 The Results: 72-Hour Attack Data
 
+
+
 Using custom KQL scripts, I extracted the raw IP addresses from failed SSH login attempts, mapped them to geospatial coordinates, and visualized the attack 
 density
 
 
 <img width="1848" height="824" alt="Screenshot 2026-03-19 171745" src="https://github.com/user-attachments/assets/5857d860-628e-4bd8-a109-105695187d9c" />
+
+
+
+
+<img width="1831" height="784" alt="Screenshot 2026-03-19 172139" src="https://github.com/user-attachments/assets/b71ac9c3-37b2-41b3-b92c-c5831323486e" />
+
+
 
 
 
@@ -38,10 +47,11 @@ Service Discovery (oracle, ftpuser): Finding oracle suggests they are hunting fo
 
 
 
-<img width="1831" height="784" alt="Screenshot 2026-03-19 172139" src="https://github.com/user-attachments/assets/b71ac9c3-37b2-41b3-b92c-c5831323486e" />
 
 
 
-## 🧠 Key Takeaways
+
+##  Key Takeaways :
+
 
 This project demonstrated how quickly an exposed asset is discovered by automated global botnets. It highlighted the critical importance of secure defaults, minimizing attack surfaces, and the power of SIEMs in translating raw system telemetry into actionable intelligence.
